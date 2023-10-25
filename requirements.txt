@@ -1,0 +1,12 @@
+asgiref
+autopep8
+django==3.2.10
+pycodestyle
+pytz
+sqlparse
+toml
+gunicorn
+tk
+tk-tools
+Pillow
+whitenoise
